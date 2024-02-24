@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Natty, a full-time full-stack developer 👨‍💻 working remotely since 2015 🚀</div>  
+# <div> Bonjour, I'm Natty, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [EthioArtsan Print]  
