@@ -1,4 +1,4 @@
-# Bonjour, I'm Natnael
+# 👋Bonjour, I'm Natnael
 
 
 ## 🌐 Socials:
