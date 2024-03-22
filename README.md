@@ -1,4 +1,4 @@
-# 👋Bonjour, I'm Natnael
+# 👋Konnichiwa, I'm Natnael
 
 Software Engineer
 -----------------
